@@ -8,6 +8,8 @@ This repository contains multiple SQL assignments with scripts and outputs.
 - [Assignment 4: Aggregation in SQL]
 - [Assignment 5: Sub Queries in SQL]
 - [Assignment 6: SQL Functions in SQL] 
+- [Assignment 7: Advanced SQL Assignment]
+
   
 **Name:** Sherkhan  
 **Course:** Data analytics SQL practice Assignments 
